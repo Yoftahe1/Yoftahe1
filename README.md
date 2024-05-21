@@ -1,7 +1,5 @@
 ## Hi there 👋
 I'm Yoftahe Merkebu, a Full-Stack Developer | Systems Designer | Cloud Engineer.
-<!--
-**Yoftahe1/Yoftahe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 About Me
 
@@ -10,6 +8,9 @@ About Me
 - 👯 I’m looking to collaborate on ...
 - 💬 Email me about jobs and projects ...
 - 📫 [How to reach me: ...](https://t.me/Yoftahe_Merkebu)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<!--
+**Yoftahe1/Yoftahe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
