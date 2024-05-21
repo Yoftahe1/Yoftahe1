@@ -8,7 +8,9 @@ About Me
 - 📫 Reach me by [Email](mailto:yoftahemerkebu2@gmail.com) | [Telegram](https://t.me/Yoftahe_Merkebu)
 
 A little more about me...
-json me = {
+
+```json5
+ me = {
     "pronouns": "He" | "Him",
     "languages" : ["Python", "javascript", "typescript", "Dart"],
     "askMeAbout" : ["tech", "app dev", "web dev", "systems design"],
@@ -19,6 +21,9 @@ json me = {
         "databases" : ["mongo", "MySql", "Postgresql"],
     },
 }
+```
+
+
 <!--
 **Yoftahe1/Yoftahe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
