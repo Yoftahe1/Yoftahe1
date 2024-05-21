@@ -15,7 +15,7 @@ About Me
     "languages" : ["Python", "javascript", "typescript", "Dart"],
     "askMeAbout" : ["tech", "app dev", "web dev", "systems design"],
     "technologies" : {
-        "frontEnd" : ["React js"]
+        "frontEnd" : ["React js"],
         "backEnd" : ["Node Js", "Nest JS"],
         "mobileApp" : ["Flutter", "React Native"],
         "databases" : ["mongo", "MySql", "Postgresql"],
