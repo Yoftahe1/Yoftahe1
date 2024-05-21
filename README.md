@@ -7,9 +7,9 @@ About Me
 - 🔭 I'm currently aiming to extend my knowledge. Learning, coding every day.
 - 📫 Reach me by [Email](mailto:yoftahemerkebu2@gmail.com) | [Telegram](https://t.me/Yoftahe_Merkebu)
 
-A little more about me...
+### A little more about me...
 
-```json5
+```python
  me = {
     "pronouns": "He" | "Him",
     "languages" : ["Python", "javascript", "typescript", "Dart"],
