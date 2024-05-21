@@ -5,10 +5,10 @@ About Me
 
 - 💬 Email me about jobs and projects ...
 - 🔭 I'm currently aiming to extend my knowledge. Learning, coding every day.
-- 📫 [Email](mailto:yoftahemerkebu2@gmail.com) | [Telegram](https://t.me/Yoftahe_Merkebu)
+- 📫 Reach me by [Email](mailto:yoftahemerkebu2@gmail.com) | [Telegram](https://t.me/Yoftahe_Merkebu)
 
 A little more about me...
-  me = {
+json me = {
     "pronouns": "He" | "Him",
     "languages" : ["Python", "javascript", "typescript", "Dart"],
     "askMeAbout" : ["tech", "app dev", "web dev", "systems design"],
