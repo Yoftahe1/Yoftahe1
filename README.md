@@ -3,9 +3,9 @@ I'm Yoftahe Merkebu, a Full-Stack Developer | Systems Designer | Cloud Engineer.
 
 About Me
 
+- 📫 Reach me by [Email](mailto:yoftahemerkebu2@gmail.com) | [Telegram](https://t.me/Yoftahe_Merkebu)
 - 💬 Email me about jobs and projects ...
 - 🔭 I'm currently aiming to extend my knowledge. Learning, coding every day.
-- 📫 Reach me by [Email](mailto:yoftahemerkebu2@gmail.com) | [Telegram](https://t.me/Yoftahe_Merkebu)
 
 ### A little more about me...
 
