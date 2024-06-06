@@ -16,16 +16,11 @@ About Me
     "askMeAbout" : ["tech", "app dev", "web dev", "systems design"],
     "technologies" : {
         "frontEnd" : ["React js"],
-        "backEnd" : ["Node Js", "Nest JS"],
+        "backEnd" : ["Node Js", "Nest JS", "Hono Js"],
         "mobileApp" : ["Flutter", "React Native"],
-        "databases" : ["mongo", "MySql", "Postgresql"],
+        "databases" : ["Postgresql", "mongo", "Redis"],
     },
 }
 ```
 
 
-<!--
-**Yoftahe1/Yoftahe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
