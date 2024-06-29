@@ -12,13 +12,13 @@ About Me
 ```python
  me = {
     "pronouns": "He" | "Him",
-    "languages" : ["Python", "javascript", "typescript", "Dart"],
-    "askMeAbout" : ["tech", "app dev", "web dev", "systems design"],
+    "languages" : ["Python", "Javascript", "Typescript", "Dart"],
+    "askMeAbout" : ["Tech", "App dev", "Web dev", "Systems design"],
     "technologies" : {
-        "frontEnd" : ["React js"],
-        "backEnd" : ["Node Js", "Nest JS", "Hono Js"],
         "mobileApp" : ["Flutter", "React Native"],
-        "databases" : ["Postgresql", "mongo", "Redis"],
+        "backEnd" : ["Node Js", "Nest Js", "Hono Js"],
+        "webDev" : ["React Js", "Next Js", "Solid Js"],
+        "databases" : ["Postgresql", "Mongo", "Redis"],
     },
 }
 ```
