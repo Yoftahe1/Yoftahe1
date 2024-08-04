@@ -1,4 +1,4 @@
-[![Header](https://github.com/Yoftahe1/Yoftahe1/blob/master/banner.png?raw=true "Header")](https://github.com/Yoftahe1)
+<img src="banner.png" alt="banner">
 
 <h1>Hey, I am Yoftahe👋</h1>
 
