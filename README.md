@@ -1,4 +1,3 @@
-## Hi there 
 <h1>Hey, I am Yoftahe👋</h1>
 
 # ✨ About Me:
