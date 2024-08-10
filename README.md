@@ -7,6 +7,7 @@
 
 
 ## 🌐 Socials:
+[![Yoftahe](https://img.shields.io/badge/Yoftahe-8A2BE2?style=flat&logo=battledotnet&logoColor=white)](https://yoftahe-merkebu.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoftahe-merkebu-8a9856317/) 
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/Yoftahe_Merkebu)
 
