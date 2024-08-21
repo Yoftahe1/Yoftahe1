@@ -25,8 +25,8 @@ A Full-Stack Software Engineer based in Hawassa, Ethiopia. With over 4 years of 
 ![Testing](https://img.shields.io/badge/testing-%23575E8B.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoftahe1&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoftahe1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoftahe1&layout=compact&theme=radical)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoftahe1&show_icons=true&theme=radical)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoftahe1&theme=radical&hide_border=false)
 
 ## 🏆 GitHub Trophies
