@@ -33,4 +33,5 @@ A Full-Stack Software Engineer based in Hawassa, Ethiopia. With over 4 years of 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yoftahe1&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15)
 
-
+## 📈 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yoftahe1&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
